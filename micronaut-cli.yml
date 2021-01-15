@@ -1,0 +1,6 @@
+applicationType: default
+defaultPackage: ru.nikita
+testFramework: junit
+sourceLanguage: java
+buildTool: gradle
+features: [ annotation-api, app-name, gradle, hibernate-validator, http-client, java, java-application, junit, lombok, mongo-reactive, netty-server, reactor, readme, shade, slf4j-simple, yaml ]
